@@ -1,5 +1,5 @@
 - 👋 Oi, sou o Guilherme Cordeiro e este é meu repositório
-- 🌱 Atualmente estou estudando  PHP
+- 🌱 Atualmente estou estudando  Reactjs
 - 💞️ Já sei uma boa parte de HTML, CSS e Js
 - 📫 caso queira entrar em contato, mande um email para guilhermecordeiro520@outlook.com
 <!---
